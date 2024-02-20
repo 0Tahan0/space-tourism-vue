@@ -1,0 +1,15 @@
+:root {
+  --light:#fff;
+  --light-gray:#ccc;
+  --gray:#aaa;
+}
+@font-face {
+  font-family: "main-f";
+  src: url("@/assets/Bellefair/Bellefair-Regular.ttf");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "second-f";
+  src: url("@/assets/Oswald/Oswald-VariableFont_wght.ttf");
+  font-weight: 100;
+}
