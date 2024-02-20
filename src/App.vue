@@ -1,7 +1,5 @@
 <template>
-  <div id="app">
-    <router-view class="overflow-x-hidden h-100 w-100" />
-  </div>
+  <router-view class="overflow-x-hidden" id="app" />
 </template>
 <script>
 export default {

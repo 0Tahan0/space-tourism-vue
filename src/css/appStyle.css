@@ -5,7 +5,7 @@
   font-family: main-f;
 }
 #app {
-  height: 100svh;
+  min-height: 100svh;
 }
 
 @media (max-width: 767px) {
